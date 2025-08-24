@@ -2,6 +2,8 @@
 
 A 3D stealth-action game developed as the final project for the LaSalle College Internship Program. Infiltrate a secure facility, plant bombs at strategic locations, and evade guards and traps to reach the exit undetected.
 
+<img width="1174" height="666" alt="image" src="https://github.com/user-attachments/assets/01ba836b-179d-404f-9cc9-a032870bf20d" />
+
 ---
 
 ## 🎯 Project Overview
